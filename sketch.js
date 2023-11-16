@@ -134,7 +134,7 @@ function calculaChanceDeErrar() {
 
 function bolinhaNaoFicaPresa(){
     if (xBolinha - raio < 0){
-    XBolinha = 23
+    xBolinha = 23
     }
 }
 
